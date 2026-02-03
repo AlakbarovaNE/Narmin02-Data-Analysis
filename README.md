@@ -54,4 +54,5 @@ Use Data-Driven Capacity Planning
 Despite fewer flights, passenger numbers increased. Airlines should continue optimizing aircraft utilization rather than simply increasing flight count.
 
 
-📌 Note: The Power BI (.pbix) file can be downloaded and viewed locally using Power BI Desktop.
+## 📌 Note: 
+The Power BI (.pbix) file can be downloaded and viewed locally using Power BI Desktop.
